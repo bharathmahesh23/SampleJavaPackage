@@ -32,6 +32,7 @@ public class SelectMultiple {
 		{
 			System.out.println("you have selected::"+webEle.getText());
 		}
+		//System.out.println("sample message");
          */
 	}
 
